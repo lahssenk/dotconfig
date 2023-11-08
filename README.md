@@ -1,0 +1,2 @@
+# dotconfig
+some ./config
